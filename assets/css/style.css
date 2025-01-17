@@ -792,6 +792,9 @@ nav.navbar.bootsnav .navbar-toggle i {
   -ms-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  img {
+    width: 50px;
+  }
 }
 .testimonial-person {
   margin-left: 15px;
